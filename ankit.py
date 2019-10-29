@@ -8,3 +8,11 @@ headers = {
 
 response = requests.get('https://api.capenetworks.com/v1/nodes', headers=headers)
 print response
+
+
+
+
+
+
+
+curl -X GET "https://api.capenetworks.com/v1/nodes" -H "accept: application/json" -H "X-API-KEY: uo3PinMdsi6dU8dAGhYQRc4DLKm7GviL" -H "X-APP-ID: 03b7c993-cdc8-4b70-86db-51ea94e0cf77" 
