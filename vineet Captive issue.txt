@@ -1,0 +1,4 @@
+working client eth.addr==80:82:23:49:4F:A6
+
+non working client eth.addr==F0:C3:71:58:34:EE
+
