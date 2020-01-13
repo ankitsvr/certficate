@@ -2,3 +2,4 @@ working client eth.addr==80:82:23:49:4F:A6
 
 non working client eth.addr==F0:C3:71:58:34:EE
 
+curl -4 -s -S -v --max-time 15 --user-agent 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0' --trace-time --insecure --output /dev/null https://www.google.co.th:443
